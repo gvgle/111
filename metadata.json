@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Heritage-Flow: ICH Presentation Architect",
+  "description": "An AI-powered presentation tool dedicated to exploring and showcasing Intangible Cultural Heritage (ICH) through beautifully designed, interactive slide decks.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
